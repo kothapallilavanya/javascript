@@ -1,0 +1,58 @@
+.main{
+    display: flex;
+    padding: 30px;
+    background-color: rgb(234, 227, 227);
+   
+}
+.left{
+    margin-right: 20%;
+    margin-top: 10%;
+    
+}
+input{
+    padding: 10px;
+    width: 150%;
+    margin: 10%;
+    
+    
+}
+.right{
+    margin-top: 15%;
+   /* max-width: 500px; */
+    display: block;
+    border-color: black;
+    background-color: white;
+  padding: 40px 140px;
+align-items: left;
+border-radius: 20px;
+
+}
+p{
+    font-size: 200px;
+}
+button{
+    color: white;
+    align-items: center;
+    width: 160%;
+    margin-left: 20px;
+    padding: 15px;
+    
+    border-radius: 10px;
+}
+h1{
+    color: blue;
+    font-size: 70px;
+    margin-top: 30%;
+}
+.fp{
+    color: blue;
+    margin: 10px;
+    margin-left: 35%;
+   }
+.log button{
+   background-color: blue;
+}
+.account button{
+    background-color: green;
+    /* width: 60%; */
+}

@@ -1,0 +1,47 @@
+body {
+    background-color: #05c46b;
+    font-family: Verdana;
+    text-align: center;
+}
+.content{
+    padding: 30px 20px;
+    max-width: 500px;
+    box-shadow: 2px 5px 10px black;
+    margin: 50px auto;
+    background-color: white;
+    text-align: left;
+    margin-bottom: 25px;
+}
+.content label{
+    width: 80%;
+    padding: 10px;
+    margin: 10px;
+   margin-bottom: 20px;
+
+}
+.content input,
+        .content select,
+        .content textarea {
+            border: 1px solid #777;
+            border-radius: 10px;
+            font-family: inherit;
+            padding: 10px;
+            display: block;
+            width: 95%;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+ 
+
+
+.content input[type="radio"],
+.content input[type="checkbox"] {
+    display: inline-block;
+    width: auto;
+}
+button{
+    width: 40%;
+    background-color: #05c46b;
+    align-items: center;
+margin-left: 40%;
+}

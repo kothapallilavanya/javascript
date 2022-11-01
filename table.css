@@ -1,0 +1,14 @@
+.row{
+    background-color: blue;
+}
+th,tr,td{
+    color: black;
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+}
+body{
+    align-items: center;
+    text-align: center;
+
+}
